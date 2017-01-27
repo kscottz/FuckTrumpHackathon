@@ -4,6 +4,8 @@ Let's Organize to Stop Trump
 The goal of the FuckTrumpHackathon is to create decentralized effort to organize and mobilize against Donald Trump and the current administration. Anyone can organize a FuckTrumpHackathon and anyone can participate. Each FuckTrumpHackathon will work to support non-violent resistance to President Trump by providing products and services that aid and support people,
 communities, and non-profits engaged in resistance.
 
+In short, the FuckTrumpHackathon is a place where citizens can show up and donate time, resources, and skills to community organizations that are fighting the current administration's policies. It is also a place where community organizations can show up and find people, resources, and products that can help them succeed in their missions. 
+
 # Roles and Responsibilities
 - *Customers* - customers are individuals, communities, and non-profits that organize and deliver resistance to the policies of President Trump. Customers bring needs, wants, and ideas to the hackathon and use hackathon products in the resistance.
 
@@ -29,6 +31,7 @@ Examples of Strategic Products:
 * ProtestsNearMe.Today - A website to list upcomming protests in a given area.
 * FindTrumpSupporters.com - A website that lists contact information and reference information about organizations and individuals that financially support Donald Trump.
 * Mimetic Warfare - images, videos, and music that support the community organizations. These assets should be monetized with digital advertising with proceeds benefiting community non-profits.
+* IWantToHelp.org - A website where individuals can enter their interests and skills and be directly connected with local community groups that support their interests and need those resources. 
 * Protest organization utilities - software libraries and tools that can be used to anonymously organize activism. 
 
 
