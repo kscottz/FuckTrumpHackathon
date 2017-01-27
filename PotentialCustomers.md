@@ -6,7 +6,8 @@ These are groups that should that could be customers for both tactical and strat
 * [ACLU Northern California](https://www.aclunc.org/)
 * [EFF] (https://www.eff.org/)
 * [Internet Archive](https://archive.org/index.php)
-* [https://calcivilrights.org/member-organizations/](California Civil Rights) -- this is an umbrella group. Lots of Orgs.
+* [California Civil Rights](https://calcivilrights.org/member-organizations) -- this is an umbrella group. Lots of Orgs.
 * [California Federation of Teachers](http://cft.org/)
-* [http://www.earthshareca.org/our_orgs/](Earth Share CA) -- umbrella group covering a lot of orgs. 
-* [http://www.siren-bayarea.org/](Siren Bay Area) 
+* [Earth Share CA](http://www.earthshareca.org/our_orgs/) -- umbrella group covering a lot of orgs. 
+* [Siren Bay Area](http://www.siren-bayarea.org/)
+* [SFILEN](http://sfilen.org/)
