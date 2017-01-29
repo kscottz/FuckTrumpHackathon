@@ -1,6 +1,8 @@
 A list of potential customers for the FuckTrumpHackathon.
 
 These are groups that should that could be customers for both tactical and strategic products developed at the hackathon.  
+* [SecureDrop Whistleblower System](https://securedrop.org/)
+* [Freedom Of The Press Foundation](https://freedom.press/)
 * [Democratic Socialists of America East Bay](https://www.dsaeastbay.org/)
 * [ACCESS](http://accesswhj.org/)
 * [ACLU Northern California](https://www.aclunc.org/)
