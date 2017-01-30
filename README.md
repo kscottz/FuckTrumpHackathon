@@ -29,7 +29,6 @@ Examples of Tactical Products:
 
 Examples of Strategic Products:
 * ProtestsNearMe.Today - A website to list upcomming protests in a given area.
-* FindTrumpSupporters.com - A website that lists contact information and reference information about organizations and individuals that financially support Donald Trump.
 * Mimetic Warfare - images, videos, and music that support the community organizations. These assets should be monetized with digital advertising with proceeds benefiting community non-profits.
 * IWantToHelp.org - A website where individuals can enter their interests and skills and be directly connected with local community groups that support their interests and need those resources. 
 * Protest organization utilities - software libraries and tools that can be used to anonymously organize activism. 
